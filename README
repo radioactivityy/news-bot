@@ -1,0 +1,21 @@
+# Scientific News Chatbot
+
+## Introduction
+
+Welcome to the Scientific News Chatbot project! This repository houses the code and resources for building a chatbot powered by the OpenAI API. The primary goal of this project is to filter scientific news from the web using web scraping techniques and unsupervised learning, with the help of Natural Language Processing (NLP) libraries such as NLTK.
+
+## Project Goals
+
+- Create a chatbot that can interact with users and provide them with filtered scientific news.
+- Implement web scraping techniques to gather scientific news data from Google and other sources.
+- Apply unsupervised learning algorithms to categorize and filter the news articles.
+- Utilize NLP libraries like NLTK to enhance text processing and understanding.
+
+## Getting Started
+
+To get started with this project, follow these steps:
+
+1. Clone the repository to your local machine:
+
+```bash
+git clone https://github.com/your-username/your-repo-name.git
